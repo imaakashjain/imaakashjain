@@ -24,7 +24,7 @@ I love to develop web scripts static websites and ever since been a self taught 
 ## Connect With Me :coffee:
 
 - In general on [Mail](mailto:aakash@medpiper.com)
-- In genral on [Slack](aakash@medpiper.com)
+- In genral on [Slack](https://app.slack.com/client/TP2EYCNTU/D03RQ3W0RD3/rimeto_profile/U03S5MDLB6D)
 - In genral on [WhatsApp](https://api.whatsapp.com/send/?phone=918627081256&text=Hi&app_absent=0)
 - In general on [LinkedIn](https://www.linkedin.com/in/jainaakash21)
 - And of course GitHub you're already on (Recursion).
